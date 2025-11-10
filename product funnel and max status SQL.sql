@@ -1,3 +1,7 @@
+-- this sql code query pulls for each order the current status and the max status reached within the order completion funnel.
+-- the output dataset was put into Power BI to make the attached dashboard.
+
+
 CREATE ROLE funnel_user LOGIN PASSWORD 'ChangeThisNow!';
 CREATE SCHEMA IF NOT EXISTS funnel AUTHORIZATION funnel_user;
 ALTER DATABASE funnel_analytics SET search_path = funnel, public;
