@@ -41,7 +41,7 @@ The goal was to figure out:
   
 
 ### 3. Python (Revenue Simulation)
-- Built a standalone notebook (`Revenue_Optimization_Model_Enhanced.ipynb`) to estimate how much revenue could increase with small funnel improvements.  
+- Built a standalone notebook(attached) to estimate how much revenue could increase with small funnel improvements.  
 - Simulated +5%, +10%, and +15% efficiency boosts across stages.  
 - Visualized projected daily revenue lift with clear tables and charts.
 
