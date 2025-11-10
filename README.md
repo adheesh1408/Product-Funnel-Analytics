@@ -1,7 +1,7 @@
 # Product Funnel Analysis & Revenue Optimization Model
 
 ## Executive Summary
-This project breaks down how users move through a product funnel — from initial order creation to completion — and measures where and why drop-offs happen.  
+This project breaks down how users move through a product funnel; from initial order creation to completion and measures where and why drop-offs happen.  
 It’s built to feel like a real client project, combining **PostgreSQL**, **Power BI**, and **Python** to move from raw data → insights → business impact.  
 Everything here is based on synthetic data but modeled to look real.
 
